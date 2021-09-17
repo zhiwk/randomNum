@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# 随机数生成器
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+这个项目就是一个练习作，
 
-## Recommended IDE Setup
+练习一下如何使用vue3在utools中进行开发，以及自己确实在一些场合有使用随机数的需求，因此才有本项目
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## 界面展示
+
+![](https://files.catbox.moe/jesg0t.png)
+
+
+
