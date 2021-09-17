@@ -1,0 +1,16 @@
+{
+    "main": "index.html",
+    "logo": "logo.png",
+    "platform": ["win32", "darwin", "linux"],
+    "preload": "preload.js",
+    "development": {
+      "main": "http://127.0.0.1:3000"
+    },
+    "features": [
+      {
+        "code": "main",
+        "explain": "一个随机数生成器",
+        "cmds":["随机数生成器","随机数","suijishu"]
+      }
+    ]
+  }
