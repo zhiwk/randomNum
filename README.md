@@ -6,7 +6,7 @@
 
 ## 界面展示
 
-![](https://files.catbox.moe/or5zw5.png)
+![](./public/操作界面.png)
 
 ## 优点
 
